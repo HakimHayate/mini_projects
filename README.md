@@ -1,4 +1,4 @@
-I put here some projects in C that I've done or I'll do that are recommended in OSTEP or CSAPP.
+I put here some projects in C that I've done or I'll do that are recommended in Operating Systems: Three Easy Pieces and Computer Systems: A Programmer's Perspective.
 
 Finished projects:
 -> Simple Unix commands
